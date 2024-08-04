@@ -1,0 +1,487 @@
+body{
+    width: 472px;
+    height: 440px;
+     background-image :  url(netflix.jpg);
+     background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    
+ }
+ #net{
+    color: rgb(229, 9, 20);
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    position: absolute;
+    left: 110px;
+    font-size: 35px;
+ }
+ #btn{
+    position: absolute;
+    left: 1150px;
+    top: 50px;
+    background-color: rgb(229, 9, 20);
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+   font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ #h12{
+    position:absolute;
+    left: 225px;
+    top: 280px;
+font-family: Arial, Helvetica, sans-serif;
+    text-align:end;
+    font: bolder;
+    color: white;
+    font-size:50px;
+ }
+ #h13{
+    position:absolute;
+    left: 490px;
+    top: 370px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+ }
+ #h14{
+    position:absolute;
+    left:322px ;
+    top: 420px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px ;
+ }
+ #box
+{
+    padding-left: 10px;
+    height: 48px;
+    width: 370px;
+    background-color: black;
+     opacity: 0.7;
+     color: silver;
+     border: 1px silver solid;
+     position: absolute;
+     left: 380px;
+     top: 490px;
+     border-radius: 7px;
+}
+ #b1{
+    background-color: rgb(229, 9, 20);
+    height: 54px;
+    width: 180px;
+    border: none;
+    border-radius: 6px;
+    font: bold;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    left: 770px;
+    top: 490px;
+ }
+
+ .p1{
+    border-top: 08px solid rgb(78, 77, 77);
+    position: absolute;
+    left: 0%;
+    top: 688px;
+    height: 500px;
+    width: 1345px;
+    color: white;
+    background-color: black;
+}
+.p2{
+    position: absolute;
+    left: 150px;
+    top: 140px;
+    font-size: 42px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p3{
+    position: absolute;
+    left: 153px;
+    top: 210px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+#tv{
+    position: absolute;
+    left: 740px;
+    top: 50px;
+    height: 350px;
+    width: 490px;
+}
+#vid1{
+    position: absolute;
+    left: 798.5px;
+    top:70px;
+    height: 300px;
+    width: 361.5px;
+}
+
+#c1{
+    border-top: 08px solid rgb(78, 77, 77);
+    border-bottom: 08px solid rgb(78, 77, 77);
+    position: absolute;
+    left: 0%;
+    top: 1190px;
+    height: 520px;
+    width: 1345px;
+    color: white;
+    background-color: black;
+}
+.c2{
+    color: white;
+    font-size: 47px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 660px;
+    top: 105px;
+}
+.c3{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left:660px ;
+    top:234px ;
+}
+.c4{
+    position: absolute;
+    left: 230px;
+    top: 100px;
+    height: 380px;
+}
+.c5{
+    position: absolute;
+    left: 0%;
+    top: 1726px;
+    height: 420px;
+    width: 1345px;
+    color: white;
+    background-color: black;
+}
+.c6{
+    color: white;
+    font-size: 58px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 260px;
+    top: 30px;
+}
+.c7{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 260px;
+    top: 200px;
+}
+.c8{
+    border-top: 08px solid rgb(78, 77, 77);
+    border-bottom: 08px solid rgb(78, 77, 77);
+    position: absolute;
+    left: 0%;
+    top: 2140px;
+    height: 520px;
+    width: 1345px;
+    color: white;
+    background-color: black;
+}
+.c9{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 690px;
+    top: 90px;
+}
+.c10{
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left:690px ;
+    top: 225px;
+}
+.c11{
+    position: absolute;
+    left: 142px;
+    top: 68px;
+}
+.c12{
+    border-bottom: 08px solid rgb(78, 77, 77);
+    position: absolute;
+    left: 0%;
+    top: 2676px;
+    height: 750px;
+    width: 1345px;
+    color: white;
+    background-color: black;
+}
+.c13{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 350px;
+    top: 04px;
+}
+.c14{
+    color: white;
+    font-size: 33px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 45px;
+    width: 990px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(44, 41, 41);
+    position: absolute;
+    left: 170px;
+    top: 120px;
+}
+.c14:hover{
+    background-color: rgb(78, 77, 77);
+}
+.c15{
+    color: white;
+    font-size: 33px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 45px;
+    width: 990px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(44, 41, 41);
+    position: absolute;
+    left: 170px;
+    top: 190px;
+}
+.c15:hover{
+    background-color: rgb(78,77, 77);
+}
+.c16{
+    color: white;
+    font-size: 33px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 45px;
+    width: 990px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(44, 41, 41);
+    position: absolute;
+    left: 170px;
+    top: 260px;
+}
+.c16:hover{
+    background-color: rgb(78, 77, 77);
+}
+.c17{
+    color: white;
+    font-size: 33px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 45px;
+    width: 990px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(44, 41, 41);
+    position: absolute;
+    left: 170px;
+    top: 330px;
+}
+.c17:hover{
+    background-color: rgb(78, 77, 77);
+}
+.c18{
+    color: white;
+    font-size: 33px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 45px;
+    width: 990px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(44, 41, 41);
+    position: absolute;
+    left: 170px;
+    top: 400px;
+}
+.c18:hover{
+    background-color: rgb(78, 77, 77);
+}
+.c19{
+    color: white;
+    font-size: 33px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     height: 45px;
+    width: 990px;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(44, 41, 41);
+    position: absolute;
+    left: 170px;
+    top: 470px;
+}
+.c19:hover{
+    background-color: rgb(78, 77, 77);
+}
+.c20{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 560px;
+}
+#box2{
+    padding-left: 10px;
+    height: 48px;
+    width: 370px;
+    background-color: black;
+     opacity: 0.7;
+     color: silver;
+     border: 1px silver solid;
+     position: absolute;
+     left: 380px;
+     top: 619px;
+     border-radius: 7px;
+}
+#b111{
+    background-color: rgb(229, 9, 20);
+    height: 54px;
+    width: 180px;
+    border: none;
+    border-radius: 6px;
+    font: bold;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    left: 770px;
+    top: 619px;
+ }
+ .c21{
+    position: absolute;
+    left: 0%;
+    top: 3435px;
+    height: 350px;
+    width: 1345px;
+    color: white;
+    background-color: black;
+ }
+ .c22{
+    position: absolute;
+    left: 150px;
+    top: 80px;
+    color: rgb(207, 207, 207);
+ }
+.c23{
+    position: absolute;
+    left: 150px;
+    top: 120px;
+    color: rgb(207, 207, 207);
+}
+.c24{
+    position: absolute;
+    left: 150px;
+    top: 160px;
+    color: rgb(207, 207, 207);
+}
+.c25{
+    position: absolute;
+    left: 150px;
+    top: 200px;
+    color: rgb(207, 207, 207);
+}
+.c26{
+    position: absolute;
+    left: 470px;
+    top: 200px;
+    color: rgb(207, 207, 207);
+}
+.c27{
+    background-color: black;
+    color: rgb(235, 207, 207);
+    border: 2px solid rgb(207, 207, 207);
+    border-radius: 5px;
+    height: 35px;
+    width: 90px;
+    position: absolute;
+    left: 155px;
+    top: 240px;
+}
+.c38{
+    position: absolute;
+    left: 154px;
+    top: 270px;
+    color: rgb(207, 207, 207) ;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c28{
+    position: absolute;
+    left: 470px;
+    top: 80px;
+    color: rgb(207, 207, 207);
+}
+.c29{
+    position: absolute;
+    left: 470px;
+    top: 120px;
+    color: rgb(207, 207, 207);
+}
+.c30{
+    position: absolute;
+    left: 470px;
+    top: 160px;
+    color: rgb(207, 207, 207);
+}
+.c31{
+    position: absolute;
+    left: 800px;
+    top: 80px;
+    color: rgb(207, 207, 207);
+}
+.c32{
+    position: absolute;
+    left: 800px;
+    top: 120px;
+    color: rgb(207, 207, 207);
+}
+.c33{
+    position: absolute;
+    left: 800px;
+    top: 160px;
+    color: rgb(207, 207, 207);
+}
+.c34{
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    color: rgb(207, 207, 207)
+}
+.c35{
+    position: absolute;
+    left: 1100px;
+    top: 80px;
+    color: rgb(207, 207, 207);
+}
+.c36{
+    position: absolute;
+    left: 1100px;
+    top: 120px;
+    color: rgb(207, 207, 207);
+}
+.c37{
+    position: absolute;
+    left: 1100px;
+    top: 160px;
+    color: rgb(207, 207, 207);
+}
+#cpr{
+    position: absolute;
+    left: 467px;
+    top: 268px;
+    color: rgb(188, 204, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+  
